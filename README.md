@@ -6,13 +6,11 @@ Bu klasör, **NumPy** ile yaptığım pratik çalışmaları içeriyor. Temel i�
 
 ## Notebooklar
 - **Numpy_examples.ipynb** – Genel NumPy örnekleri
-- **Numpy_intro.ipynb** – NumPy temel bilgilerine giriş
-- **Numpy_intro2.ipynb** – Ek NumPy alıştırmaları
+- **Numpy_intro.ipynb** – Numpy temel bilgilerine giriş
+- **Numpy_intro2.ipynb** – Numpy temel bilgilerine devam
 - **Numpy_matrix.ipynb** – Matris işlemleri ve örnekler
-- **Numpy_operations.ipynb** – Çeşitli NumPy işlemleri ve mini projeler
+- **Numpy_operations.ipynb** – Çeşitli Numpy operasyonları
 - **Sudoku_grid_example.ipynb** – Sudoku grid örneği
 - **Word_search_grid.ipynb** – Word Search grid örneği
-
-> Not: `.ipynb_checkpoints` klasörü, Jupyter Notebook’un otomatik kaydetme dosyalarını içerir ve repo’ya dahil edilmesine gerek yoktur.
 
 Bu notebooklar, dizilerle çalışma, indexing, slicing ve basit algoritmaları NumPy kullanarak öğrenmek ve pekiştirmek amacıyla hazırlanmıştır.
